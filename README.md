@@ -31,6 +31,9 @@ Welcome to the Befow Project's repository showcasing various small projects crea
 9. Product Model 📦
    Check out the live demo: [Product Model](https://shortly-askhan.netlify.app/)
 
+10. Fylo Website 🌐
+   Check out the live demo: [ Fylo Website](https://fylo-askhan.netlify.app/)
+
 ##### Feel free to click on the provided links to explore and interact with each project. These projects highlight various UI/UX design principles, responsive layouts, and the flexibility of Tailwind CSS.
 
 ## About the Author
