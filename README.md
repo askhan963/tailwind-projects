@@ -34,7 +34,7 @@ Welcome to the Befow Project's repository showcasing various small projects crea
 ##### Feel free to click on the provided links to explore and interact with each project. These projects highlight various UI/UX design principles, responsive layouts, and the flexibility of Tailwind CSS.
 
 ## About the Author
-This collection of projects is maintained by [ASK Khan](https://github.com/askhan963). If you have any questions, suggestions, or feedback, feel free to get in touch.
+This collection of projects is maintained by [AS Khan](https://github.com/askhan963). If you have any questions, suggestions, or feedback, feel free to get in touch.
 
 Connect with me on:
 
